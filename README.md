@@ -15,9 +15,11 @@ The results should be saved in txt format and will be used for part 2.
 The least squares linear fit approximates a set of (x,y) data as a straight line. This method is based on minimizing the error between the actual data points and the line one gets using the calculated values of m and b. To use the least squares method assume that each of your x values is called xi and each of your y values is called yi, so that a single data point is (xi, yi). The counter i goes from 1 to n, which is the number of data points you have. 
   
 You can define average x and y values:
+
 ![db1203685d7f2d35ae04ce53f23ab633](https://user-images.githubusercontent.com/93693073/163869898-a174e80d-d3ee-47ce-95c8-36d4b609f8c0.png)
 
 Use these values to determine m and b:
+
 ![b41ab1c8745b966cf9bb7ee5250bf683](https://user-images.githubusercontent.com/93693073/163872561-687caf28-fe43-4178-a09e-644383130b12.png)
 
 In our case, the values xi represent years, while the values yi represent either name occurrences or name popularity for each year.
