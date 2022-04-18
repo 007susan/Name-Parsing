@@ -35,4 +35,5 @@ The GUI should be able to refresh whenever the user selects to plot absolute num
 
 # Extras
 Made with names folder relative to this:
+
   os.getcwd() + "/Names/" + filename
