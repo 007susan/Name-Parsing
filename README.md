@@ -5,10 +5,10 @@ In MATLAB, GUI should be able to refresh whenever the user selects to plot absol
 
 # Python
 In this part, you will analyze the given data to feed a graphical user interface created in MATLAB. The program does the following:
-  1. Ask the user for a desired name and a sex
-  2. Go through all the data files and find how many times the user-given name has been used for the user-given sex each year 
-  3. Calculate the popularity of the user-given name per year as a percentage of the total number of name occurrences used per year
-  4. Find the best linear fit to the name occurrence data using the least squares method. This should be done for both the absolute number of occurrences and the popularity percentages
+  1. Ask the user for a desired name and a sex.
+  2. Go through all the data files and find how many times the user-given name has been used for the user-given sex each year.
+  3. Calculate the popularity of the user-given name per year as a percentage of the total number of name occurrences used per year.
+  4. Find the best linear fit to the name occurrence data using the least squares method. This should be done for both the absolute number of occurrences and the popularity percentages.
 
 The results should be saved in txt format and will be used for part 2.
   
@@ -26,9 +26,9 @@ In our case, the values xi represent years, while the values yi represent either
 
 # MATLAB
 The program does the following:
-  1. Import the text data into MATLAB
-  2. Create a GUI that will show the historic occurrences of the user-given name over time. Your GUI should include a plot of name occurrences (y-axis) vs year (x-axis) as well as buttons (or drop-down menus, or checkboxes, or any other control structure you prefer) to choose whether to plot the absolute number of occurrences or the popularity percentages
-  3. Plot the appropriate least squares fit line on top of the historic data
+  1. Import the text data into MATLAB.
+  2. Create a GUI that will show the historic occurrences of the user-given name over time. Your GUI should include a plot of name occurrences (y-axis) vs year (x-axis) as well as buttons (or drop-down menus, or checkboxes, or any other control structure you prefer) to choose whether to plot the absolute number of occurrences or the popularity percentages.
+  3. Plot the appropriate least squares fit line on top of the historic data.
 
 The GUI should be able to refresh whenever the user selects to plot absolute number of occurrences or the popularity percentage. The plots should contain all relevant information such as axis labels, title, legend, markers, etc.
 
