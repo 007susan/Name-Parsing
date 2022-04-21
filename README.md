@@ -34,8 +34,11 @@ The GUI should be able to refresh whenever the user selects to plot absolute num
 
 # Screenshots/Example:
 ![d786a99e8bf75fdbc3dbbdaf374954c5](https://user-images.githubusercontent.com/93693073/164383631-2152de09-6fe9-4d65-9835-15901323fb10.png)
+ 
 ![fjkhsakjfhangela1](https://user-images.githubusercontent.com/93693073/164383646-349b6b10-38e3-413a-ad61-74e99689576d.png)
+
 ![michael](https://user-images.githubusercontent.com/93693073/164383772-897aec4b-cb70-442d-9bfc-fe975fc3eb23.png)
+
 ![bob](https://user-images.githubusercontent.com/93693073/164383781-b2aedb8f-b5d5-4e12-be1d-562b59414641.png)
 
 # Extras
