@@ -32,7 +32,7 @@ The program does the following:
 
 The GUI should be able to refresh whenever the user selects to plot absolute number of occurrences or the popularity percentage. The plots should contain all relevant information such as axis labels, title, legend, markers, etc.
 
-# Screenshots/Example:
+# Screenshots/Example of what is made:
 ![d786a99e8bf75fdbc3dbbdaf374954c5](https://user-images.githubusercontent.com/93693073/164383631-2152de09-6fe9-4d65-9835-15901323fb10.png)
  
 ![fjkhsakjfhangela1](https://user-images.githubusercontent.com/93693073/164383646-349b6b10-38e3-413a-ad61-74e99689576d.png)
