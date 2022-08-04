@@ -33,6 +33,8 @@ The program does the following:
 The GUI should be able to refresh whenever the user selects to plot absolute number of occurrences or the popularity percentage. The plots should contain all relevant information such as axis labels, title, legend, markers, etc.
 
 # Screenshots/Example of what is made:
+After running the code, a program where you type in the name and select their gender will appear. You click "Plot now!" to plot the popularity of your name. Have fun :)!
+
 ![d786a99e8bf75fdbc3dbbdaf374954c5](https://user-images.githubusercontent.com/93693073/164383631-2152de09-6fe9-4d65-9835-15901323fb10.png)
  
 ![fjkhsakjfhangela1](https://user-images.githubusercontent.com/93693073/164383646-349b6b10-38e3-413a-ad61-74e99689576d.png)
